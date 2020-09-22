@@ -1,1 +1,2 @@
-# myfirstproject1
+# Stock-Management
+An Express JS Web Application
